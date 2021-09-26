@@ -23,6 +23,7 @@ sbt run
 ```
 you can run queries interactively using graphql-playground by opening http://localhost:8080 in a browser or query the /graphql endpoint directly
 # Why Starverse
+![gif](https://media.giphy.com/media/3o7abrH8o4HMgEAV9e/giphy.gif)
 
 Starverse is a opensource learning project to experiment different packages, designs and even coding standards while building components around starwars-universe (cause why not, hence the name starverse), idea is to build a component break it down with great explanations on code level and markdown level (yes every component has its own read me)
 
